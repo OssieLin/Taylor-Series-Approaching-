@@ -2,7 +2,7 @@
 
 Complicated functions can be graphed out using **Taylor Series**:
 
-I also made a video that explains more details of how Taylor Series works, please visit: [Taylor Series, "Tailored Unique Power Series for Functions"](https://youtu.be/OcHCgtH-9ls).
+I also made a video that explains more details of how Taylor Series works, please visit: [Taylor, are you serious?](https://youtu.be/OcHCgtH-9ls).
 I'd like to think of Taylor Series as "Tailor Series" as it tailors unique power series for different functions.
 
 $$\displaystyle f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!} (x-a)^n$$
